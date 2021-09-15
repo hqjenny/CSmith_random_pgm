@@ -1,0 +1,110 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   --no-structs --no-pointers --no-math64 --max-funcs 4 --no-unions --output 3708.c
+ * Seed:      3585563854
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+/* --- GLOBAL VARIABLES --- */
+static uint32_t g_3[3][10][8] = {{{1UL,0x6A9B03BEL,18446744073709551611UL,18446744073709551611UL,0x6A9B03BEL,1UL,0UL,0x07E294B5L},{18446744073709551615UL,0xFDEB7727L,0UL,0x4DB503B5L,0xBACC5D9BL,0xB88146CDL,18446744073709551615UL,0UL},{0x4BB9CEC0L,18446744073709551615UL,0x6C4F32B7L,0x4DB503B5L,8UL,0x260389A9L,18446744073709551607UL,0x07E294B5L},{1UL,8UL,0x0585B7F3L,18446744073709551611UL,2UL,0x83FAA058L,18446744073709551615UL,0UL},{1UL,1UL,18446744073709551615UL,0xEA28C7FFL,3UL,0x07E294B5L,0x9E9D60A2L,0x6C4F32B7L},{0xA0426A76L,18446744073709551612UL,0x61B8CE22L,0UL,1UL,1UL,0xE94F934FL,0UL},{9UL,0xC04CCB63L,1UL,18446744073709551612UL,0x4DB503B5L,0UL,0xADCDA6A4L,0x6C4F32B7L},{1UL,18446744073709551615UL,18446744073709551615UL,0xA0426A76L,0xF5ECCE35L,0x8FA48A2BL,18446744073709551609UL,0xFA8F90A3L},{0x13C444C9L,0x0D69B45CL,1UL,0x20B2455FL,18446744073709551612UL,0UL,0xFFCF33F2L,0x0585B7F3L},{0UL,1UL,0xE93D0B54L,0xC04CCB63L,1UL,1UL,0x07E294B5L,0xFDEB7727L}},{{18446744073709551615UL,0x8FA48A2BL,0x34172034L,18446744073709551608UL,18446744073709551609UL,0x4DB503B5L,18446744073709551613UL,0UL},{0xFCE2949FL,0xB023ED15L,18446744073709551608UL,18446744073709551615UL,18446744073709551608UL,0xB023ED15L,0xFCE2949FL,1UL},{1UL,18446744073709551615UL,18446744073709551611UL,18446744073709551615UL,1UL,0UL,0xF4A8FE24L,0x2E5F0E77L},{0xA19AE86AL,0xE95866B3L,3UL,0xFCE2949FL,1UL,0xBACC5D9BL,0x20B2455FL,18446744073709551615UL},{1UL,0xFDEB7727L,0x8C658163L,0x2E5F0E77L,18446744073709551608UL,0x9B2CFB63L,0xB88146CDL,8UL},{0xFCE2949FL,2UL,0x2E5F0E77L,0xF5ECCE35L,18446744073709551609UL,0x0585B7F3L,0x61B8CE22L,0x15256EE9L},{18446744073709551615UL,1UL,0UL,0x88CDF8ABL,1UL,0x4ABC2489L,8UL,0x4826422FL},{0UL,18446744073709551615UL,2UL,3UL,18446744073709551612UL,18446744073709551615UL,0x13C444C9L,0xFE4DE5A8L},{0x13C444C9L,0x88E10E5EL,0x260389A9L,0xE94F934FL,0xF5ECCE35L,0x20B2455FL,0xA0426A76L,0x6A9B03BEL},{1UL,0xFE4DE5A8L,18446744073709551615UL,0xA19AE86AL,0x4DB503B5L,0x88CDF8ABL,0x4BB9CEC0L,0x83FAA058L}},{{9UL,0xFFCF33F2L,18446744073709551615UL,1UL,0xA0426A76L,0xFE4DE5A8L,0x6A9B03BEL,1UL},{1UL,0xF34D89BBL,18446744073709551615UL,0xFE4DE5A8L,1UL,18446744073709551611UL,18446744073709551607UL,0xB023ED15L},{0xE95866B3L,0x83FAA058L,1UL,0x13C444C9L,0x13C444C9L,1UL,0x83FAA058L,0xE95866B3L},{0x611FB8EBL,0xB88146CDL,0xEA2C39D5L,0x8FA48A2BL,0x0585B7F3L,18446744073709551615UL,0x4ABC2489L,0UL},{0xFA8F90A3L,9UL,0UL,18446744073709551611UL,0x8FA48A2BL,18446744073709551615UL,1UL,0xA0426A76L},{0xE94F934FL,0xB88146CDL,0UL,18446744073709551611UL,18446744073709551615UL,1UL,8UL,0x0D69B45CL},{0xA0426A76L,0x83FAA058L,0xFFCF33F2L,1UL,0x2E5F0E77L,18446744073709551611UL,0xF34D89BBL,0UL},{0x6A9B03BEL,0xF34D89BBL,0x4BB9CEC0L,0UL,18446744073709551615UL,0xFE4DE5A8L,0x9E9D60A2L,9UL},{0xF4A8FE24L,0xFFCF33F2L,18446744073709551608UL,0xB023ED15L,0xADCDA6A4L,0x88CDF8ABL,0x2E5F0E77L,0x07E294B5L},{0UL,0xFE4DE5A8L,1UL,1UL,0x4ABC2489L,8UL,0xA19AE86AL,18446744073709551613UL}}};
+
+
+/* --- FORWARD DECLARATIONS --- */
+static uint16_t  func_1(void);
+
+
+/* --- FUNCTIONS --- */
+/* ------------------------------------------ */
+/* 
+ * reads : g_3
+ * writes:
+ */
+static uint16_t  func_1(void)
+{ /* block id: 0 */
+    uint16_t l_2 = 0UL;
+    l_2 = 0xB26BDDE0L;
+    return g_3[1][9][0];
+}
+
+
+
+
+/* ---------------------------------------- */
+int main (int argc, char* argv[])
+{
+    int i, j, k;
+    int print_hash_value = 0;
+    platform_main_begin();
+    crc32_gentab();
+    func_1();
+    for (i = 0; i < 3; i++)
+    {
+        for (j = 0; j < 10; j++)
+        {
+            for (k = 0; k < 8; k++)
+            {
+                transparent_crc(g_3[i][j][k], "g_3[i][j][k]", print_hash_value);
+                if (print_hash_value) printf("index = [%d][%d][%d]\n", i, j, k);
+
+            }
+        }
+    }
+    int checksum = platform_main_end(crc32_context ^ 0xFFFFFFFFUL, print_hash_value);
+    return checksum;
+}
+
+/************************ statistics *************************
+XXX max struct depth: 0
+breakdown:
+   depth: 0, occurrence: 2
+XXX total union variables: 0
+
+XXX non-zero bitfields defined in structs: 0
+XXX zero bitfields defined in structs: 0
+XXX const bitfields defined in structs: 0
+XXX volatile bitfields defined in structs: 0
+XXX structs with bitfields in the program: 0
+breakdown:
+XXX full-bitfields structs in the program: 0
+breakdown:
+XXX times a bitfields struct's address is taken: 0
+XXX times a bitfields struct on LHS: 0
+XXX times a bitfields struct on RHS: 0
+XXX times a single bitfield on LHS: 0
+XXX times a single bitfield on RHS: 0
+
+XXX max expression depth: 1
+breakdown:
+   depth: 1, occurrence: 3
+
+XXX total number of pointers: 0
+
+XXX times a non-volatile is read: 1
+XXX times a non-volatile is write: 1
+XXX times a volatile is read: 0
+XXX    times read thru a pointer: 0
+XXX times a volatile is write: 0
+XXX    times written thru a pointer: 0
+XXX times a volatile is available for access: 0
+XXX percentage of non-volatile access: 100
+
+XXX forward jumps: 0
+XXX backward jumps: 0
+
+XXX stmts: 2
+XXX max block depth: 0
+breakdown:
+   depth: 0, occurrence: 2
+
+XXX percentage a fresh-made variable is used: 100
+XXX percentage an existing variable is used: 0
+********************* end of statistics **********************/
+

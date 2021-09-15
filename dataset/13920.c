@@ -1,0 +1,110 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   --no-structs --no-pointers --no-math64 --max-funcs 4 --no-unions --output 13920.c
+ * Seed:      3548099158
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+/* --- GLOBAL VARIABLES --- */
+static uint32_t g_2[7][7][5] = {{{0xB37B0480L,0x4E665969L,0x4E665969L,0xB37B0480L,4294967295UL},{0x1DF82D83L,0UL,0xE6FC2E60L,1UL,4294967289UL},{4294967295UL,1UL,4UL,0x67215912L,4294967286UL},{4294967295UL,0x47CDEDFCL,4294967295UL,1UL,4294967286UL},{4294967291UL,0x86AEBA4DL,0x67215912L,0xB37B0480L,4294967291UL},{0xA41449C9L,0x22DB785BL,0UL,0UL,0UL},{4294967295UL,4294967295UL,0x67215912L,4294967292UL,0x78398922L}},{{0x6A0B3493L,7UL,4294967295UL,0x22DB785BL,5UL},{0xB37B0480L,4294967292UL,4UL,0x292978D8L,4294967291UL},{0UL,0UL,1UL,0x47CDEDFCL,0UL},{4294967291UL,0x78398922L,4294967292UL,0x67215912L,4294967295UL},{0xC3D4E703L,7UL,5UL,7UL,0xC3D4E703L},{4294967291UL,0x4E665969L,4UL,0x292978D8L,0x78398922L},{4294967288UL,4294967295UL,0UL,1UL,0x1DF82D83L}},{{1UL,4294967291UL,4294967292UL,0x4E665969L,0x78398922L},{4294967295UL,1UL,4294967286UL,1UL,0xC3D4E703L},{0x78398922L,4294967292UL,0x67215912L,4294967295UL,4294967295UL},{4294967289UL,4294967295UL,4294967289UL,1UL,0UL},{0x292978D8L,1UL,2UL,0x4E665969L,0x292978D8L},{0xA32FD2D1L,7UL,0x3EE67684L,1UL,0x3EE67684L},{0x78398922L,4UL,2UL,0x292978D8L,0xB37B0480L}},{{0xA41449C9L,0UL,4294967289UL,7UL,4294967288UL},{1UL,0x292978D8L,0x67215912L,0x67215912L,0x292978D8L},{0x3EE67684L,0UL,4294967286UL,0x47CDEDFCL,5UL},{4294967291UL,4UL,4294967292UL,4294967286UL,4294967295UL},{0xE6FC2E60L,7UL,0UL,7UL,0xE6FC2E60L},{4294967291UL,1UL,4UL,4UL,0x78398922L},{0x3EE67684L,4294967295UL,5UL,1UL,0x6A0B3493L}},{{1UL,4294967292UL,4294967292UL,1UL,0x78398922L},{0xA41449C9L,1UL,1UL,1UL,0xE6FC2E60L},{0x78398922L,4294967291UL,0x67215912L,2UL,4294967295UL},{0xA32FD2D1L,4294967295UL,0xA32FD2D1L,1UL,5UL},{0x292978D8L,0x4E665969L,2UL,1UL,0x292978D8L},{4294967289UL,7UL,4294967288UL,1UL,4294967288UL},{0x78398922L,0x78398922L,2UL,4UL,0xB37B0480L}},{{4294967295UL,0UL,0xA32FD2D1L,7UL,0x3EE67684L},{1UL,4UL,0x67215912L,4294967286UL,0x292978D8L},{4294967288UL,0UL,1UL,0x47CDEDFCL,0UL},{4294967291UL,0x78398922L,4294967292UL,0x67215912L,4294967295UL},{0xC3D4E703L,7UL,5UL,7UL,0xC3D4E703L},{4294967291UL,0x4E665969L,4UL,0x292978D8L,0x78398922L},{4294967288UL,4294967295UL,0UL,1UL,0x1DF82D83L}},{{1UL,4294967291UL,4294967292UL,0x4E665969L,0x78398922L},{4294967295UL,1UL,4294967286UL,1UL,0xC3D4E703L},{0x78398922L,4294967292UL,0x67215912L,4294967295UL,4294967295UL},{4294967289UL,4294967295UL,4294967289UL,1UL,0UL},{0x292978D8L,1UL,2UL,0x4E665969L,0x292978D8L},{0xA32FD2D1L,7UL,0x6A0B3493L,1UL,0x6A0B3493L},{0xB37B0480L,0x86AEBA4DL,4UL,4294967286UL,1UL}}};
+
+
+/* --- FORWARD DECLARATIONS --- */
+static uint8_t  func_1(void);
+
+
+/* --- FUNCTIONS --- */
+/* ------------------------------------------ */
+/* 
+ * reads : g_2
+ * writes:
+ */
+static uint8_t  func_1(void)
+{ /* block id: 0 */
+    uint16_t l_3 = 0x6FBFL;
+    l_3 = g_2[1][6][2];
+    return g_2[6][2][0];
+}
+
+
+
+
+/* ---------------------------------------- */
+int main (int argc, char* argv[])
+{
+    int i, j, k;
+    int print_hash_value = 0;
+    platform_main_begin();
+    crc32_gentab();
+    func_1();
+    for (i = 0; i < 7; i++)
+    {
+        for (j = 0; j < 7; j++)
+        {
+            for (k = 0; k < 5; k++)
+            {
+                transparent_crc(g_2[i][j][k], "g_2[i][j][k]", print_hash_value);
+                if (print_hash_value) printf("index = [%d][%d][%d]\n", i, j, k);
+
+            }
+        }
+    }
+    int checksum = platform_main_end(crc32_context ^ 0xFFFFFFFFUL, print_hash_value);
+    return checksum;
+}
+
+/************************ statistics *************************
+XXX max struct depth: 0
+breakdown:
+   depth: 0, occurrence: 2
+XXX total union variables: 0
+
+XXX non-zero bitfields defined in structs: 0
+XXX zero bitfields defined in structs: 0
+XXX const bitfields defined in structs: 0
+XXX volatile bitfields defined in structs: 0
+XXX structs with bitfields in the program: 0
+breakdown:
+XXX full-bitfields structs in the program: 0
+breakdown:
+XXX times a bitfields struct's address is taken: 0
+XXX times a bitfields struct on LHS: 0
+XXX times a bitfields struct on RHS: 0
+XXX times a single bitfield on LHS: 0
+XXX times a single bitfield on RHS: 0
+
+XXX max expression depth: 1
+breakdown:
+   depth: 1, occurrence: 3
+
+XXX total number of pointers: 0
+
+XXX times a non-volatile is read: 2
+XXX times a non-volatile is write: 1
+XXX times a volatile is read: 0
+XXX    times read thru a pointer: 0
+XXX times a volatile is write: 0
+XXX    times written thru a pointer: 0
+XXX times a volatile is available for access: 0
+XXX percentage of non-volatile access: 100
+
+XXX forward jumps: 0
+XXX backward jumps: 0
+
+XXX stmts: 2
+XXX max block depth: 0
+breakdown:
+   depth: 0, occurrence: 2
+
+XXX percentage a fresh-made variable is used: 66.7
+XXX percentage an existing variable is used: 33.3
+********************* end of statistics **********************/
+

@@ -1,0 +1,115 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   --no-structs --no-pointers --no-math64 --max-funcs 4 --no-unions --output 6578.c
+ * Seed:      3040636576
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+/* --- GLOBAL VARIABLES --- */
+static volatile int32_t g_2 = 0xCA631852L;/* VOLATILE GLOBAL g_2 */
+static volatile uint32_t g_3[8][7][4] = {{{6UL,7UL,0x58E17C10L,0xA624CDB8L},{0x58E17C10L,0xA624CDB8L,0UL,0x5FFF839EL},{0UL,0xA130DFDDL,18446744073709551608UL,0x582F80C3L},{0x05132D7AL,0xEE39F3FAL,0x582F80C3L,0x5950707DL},{0UL,0UL,1UL,0xE4D9EDBDL},{0x5FFF839EL,0x3F6085E0L,0x0611BC38L,0x77A1245CL},{0UL,0x2FA814B1L,0x4CA77904L,0UL}},{{0UL,0x7FE64FD9L,0x7FE64FD9L,0UL},{0x2FA814B1L,1UL,0UL,0xA4C5706BL},{18446744073709551608UL,0UL,7UL,0x4CA77904L},{0x77A1245CL,0xEE39F3FAL,0UL,0x4CA77904L},{0UL,0UL,0x18E418A5L,1UL},{0x5950707DL,0x58E17C10L,0UL,0x2FA814B1L},{0x10DD013DL,0x2894FF54L,18446744073709551615UL,0x18E418A5L}},{{18446744073709551615UL,18446744073709551606UL,0x5FFF839EL,0UL},{0x2894FF54L,18446744073709551615UL,0x100C4307L,0x4CA77904L},{0x5FFF839EL,0UL,18446744073709551606UL,0UL},{7UL,18446744073709551610UL,0x0611BC38L,4UL},{5UL,18446744073709551615UL,0xA130DFDDL,0x5950707DL},{0x5950707DL,7UL,0x7AB3921DL,7UL},{18446744073709551606UL,0xE4D9EDBDL,0UL,0x18E418A5L}},{{0x58E17C10L,0xA4C5706BL,0xEE39F3FAL,18446744073709551615UL},{0xE4D9EDBDL,0x2FA814B1L,0x100C4307L,18446744073709551610UL},{0xE4D9EDBDL,5UL,0xEE39F3FAL,0xD6804445L},{0x58E17C10L,18446744073709551610UL,0UL,0x0611BC38L},{18446744073709551606UL,0x100C4307L,0x7AB3921DL,9UL},{0x5950707DL,0UL,0xA130DFDDL,18446744073709551608UL},{5UL,0x5FFF839EL,0x0611BC38L,0x18E418A5L}},{{7UL,0xEE39F3FAL,18446744073709551606UL,0x7FE64FD9L},{0x5FFF839EL,18446744073709551608UL,0x100C4307L,0x582F80C3L},{0x2894FF54L,18446744073709551606UL,0x5FFF839EL,0x4D0F4F23L},{18446744073709551615UL,18446744073709551610UL,18446744073709551615UL,18446744073709551615UL},{0x10DD013DL,0x10DD013DL,0UL,0UL},{0x5950707DL,0x7FE64FD9L,0x18E418A5L,0x58E17C10L},{0UL,0x4E1265ABL,0xD6804445L,0x18E418A5L}},{{0UL,0x4E1265ABL,0xE4D9EDBDL,0x58E17C10L},{0x4E1265ABL,0x7FE64FD9L,0x100C4307L,0UL},{18446744073709551606UL,0x10DD013DL,0x2894FF54L,18446744073709551615UL},{0x2FA814B1L,18446744073709551610UL,1UL,0x4D0F4F23L},{0x100C4307L,18446744073709551606UL,9UL,0x582F80C3L},{0x5950707DL,18446744073709551608UL,0UL,0x7FE64FD9L},{0xAAAEB9AEL,0xEE39F3FAL,4UL,0x18E418A5L}},{{0x7FE64FD9L,0x5FFF839EL,0x4E1265ABL,18446744073709551608UL},{0xEE39F3FAL,0UL,0x100C4307L,9UL},{0xA4C5706BL,0x100C4307L,0xA4C5706BL,0x0611BC38L},{18446744073709551608UL,18446744073709551610UL,0x4D0F4F23L,0xD6804445L},{18446744073709551615UL,5UL,0UL,18446744073709551610UL},{0x5950707DL,0x2FA814B1L,0UL,18446744073709551615UL},{18446744073709551615UL,0xA4C5706BL,0x4D0F4F23L,0x18E418A5L}},{{18446744073709551608UL,0xE4D9EDBDL,0xA4C5706BL,7UL},{0xA4C5706BL,7UL,0x100C4307L,0x5950707DL},{0xEE39F3FAL,18446744073709551615UL,0x4E1265ABL,4UL},{0x7FE64FD9L,18446744073709551610UL,4UL,0UL},{0xAAAEB9AEL,0UL,0UL,0x4CA77904L},{0x5950707DL,18446744073709551615UL,9UL,0UL},{0x100C4307L,18446744073709551606UL,1UL,0x18E418A5L}}};
+
+
+/* --- FORWARD DECLARATIONS --- */
+static int32_t  func_1(void);
+
+
+/* --- FUNCTIONS --- */
+/* ------------------------------------------ */
+/* 
+ * reads : g_3
+ * writes: g_3
+ */
+static int32_t  func_1(void)
+{ /* block id: 0 */
+    const uint32_t l_6[8][6] = {{0xAF9031EAL,0UL,1UL,0x3ED23C5AL,1UL,0UL},{1UL,0xF3B8CFF2L,18446744073709551615UL,0x3ED23C5AL,0xF3B8CFF2L,1UL},{0xAF9031EAL,0xD0BD2F23L,1UL,0xE80A7C6DL,4UL,4UL},{18446744073709551615UL,0xD0BD2F23L,0xD0BD2F23L,18446744073709551615UL,18446744073709551610UL,0x71DBCABEL},{18446744073709551615UL,18446744073709551610UL,0x71DBCABEL,0xE80A7C6DL,0xD0BD2F23L,0x71DBCABEL},{1UL,4UL,0xD0BD2F23L,0xF3B8CFF2L,0xD0BD2F23L,4UL},{0xE80A7C6DL,18446744073709551610UL,1UL,0xF3B8CFF2L,18446744073709551610UL,0xD0BD2F23L},{1UL,0xD0BD2F23L,1UL,0xE80A7C6DL,4UL,4UL}};
+    uint32_t l_7 = 18446744073709551607UL;
+    int i, j;
+    g_3[7][5][0]++;
+    l_7 = l_6[1][5];
+    return g_3[2][2][2];
+}
+
+
+
+
+/* ---------------------------------------- */
+int main (int argc, char* argv[])
+{
+    int i, j, k;
+    int print_hash_value = 0;
+    platform_main_begin();
+    crc32_gentab();
+    func_1();
+    transparent_crc(g_2, "g_2", print_hash_value);
+    for (i = 0; i < 8; i++)
+    {
+        for (j = 0; j < 7; j++)
+        {
+            for (k = 0; k < 4; k++)
+            {
+                transparent_crc(g_3[i][j][k], "g_3[i][j][k]", print_hash_value);
+                if (print_hash_value) printf("index = [%d][%d][%d]\n", i, j, k);
+
+            }
+        }
+    }
+    int checksum = platform_main_end(crc32_context ^ 0xFFFFFFFFUL, print_hash_value);
+    return checksum;
+}
+
+/************************ statistics *************************
+XXX max struct depth: 0
+breakdown:
+   depth: 0, occurrence: 4
+XXX total union variables: 0
+
+XXX non-zero bitfields defined in structs: 0
+XXX zero bitfields defined in structs: 0
+XXX const bitfields defined in structs: 0
+XXX volatile bitfields defined in structs: 0
+XXX structs with bitfields in the program: 0
+breakdown:
+XXX full-bitfields structs in the program: 0
+breakdown:
+XXX times a bitfields struct's address is taken: 0
+XXX times a bitfields struct on LHS: 0
+XXX times a bitfields struct on RHS: 0
+XXX times a single bitfield on LHS: 0
+XXX times a single bitfield on RHS: 0
+
+XXX max expression depth: 1
+breakdown:
+   depth: 1, occurrence: 5
+
+XXX total number of pointers: 0
+
+XXX times a non-volatile is read: 1
+XXX times a non-volatile is write: 1
+XXX times a volatile is read: 1
+XXX    times read thru a pointer: 0
+XXX times a volatile is write: 1
+XXX    times written thru a pointer: 0
+XXX times a volatile is available for access: 2
+XXX percentage of non-volatile access: 50
+
+XXX forward jumps: 0
+XXX backward jumps: 0
+
+XXX stmts: 3
+XXX max block depth: 0
+breakdown:
+   depth: 0, occurrence: 3
+
+XXX percentage a fresh-made variable is used: 80
+XXX percentage an existing variable is used: 20
+********************* end of statistics **********************/
+
